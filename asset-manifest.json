@@ -1,33 +1,37 @@
 {
   "files": {
-    "main.js": "/static/js/main.f2b18fe6.js",
-    "static/media/video_apresentacao_tool.mp4": "/static/media/video_apresentacao_tool.ac3574f41441006ef64c.mp4",
-    "static/media/wedo.svg": "/static/media/wedo.ffda5d26662a5fd56036af041a51ba0a.svg",
+    "main.css": "/static/css/main.69c32726.css",
+    "main.js": "/static/js/main.e9c00c63.js",
+    "static/media/video-apresentation.mp4": "/static/media/video-apresentation.ac3574f41441006ef64c.mp4",
     "static/media/profile1.jpg": "/static/media/profile1.aaba1a2fa2007c5c5a10.jpg",
-    "static/media/home.svg": "/static/media/home.74b2637b7bbc9e94eaaabd205b0924b7.svg",
-    "static/media/visualizacao_1.jpg": "/static/media/visualizacao_1.c58f69b26982c789d97f.jpg",
+    "static/media/visualization-1.jpg": "/static/media/visualization-1.c58f69b26982c789d97f.jpg",
     "static/media/aboutus.svg": "/static/media/aboutus.0643bec6617f537d582dbd4f9c0ec7e1.svg",
-    "static/media/mvp_arquitetura.jpg": "/static/media/mvp_arquitetura.658d411b3ce920ce16aa.jpg",
     "static/media/profile6.jpeg": "/static/media/profile6.6cf5b43b8fc8ab90555a.jpeg",
     "static/media/profile5.jpeg": "/static/media/profile5.fa56cbfe9ce3c9ff947a.jpeg",
-    "static/media/visualizacao_4.jpg": "/static/media/visualizacao_4.37a17156739b89310ffd.jpg",
+    "static/media/visualization-4.jpg": "/static/media/visualization-4.37a17156739b89310ffd.jpg",
+    "static/media/banner-bg.png": "/static/media/banner-bg.64dc2b5b415fe2cb6412.png",
     "static/media/profile4.jpeg": "/static/media/profile4.55308537f7ba416d1c17.jpeg",
+    "static/media/visualization-2.jpg": "/static/media/visualization-2.12dfbedd632566deaac4.jpg",
     "static/media/profile12.jpeg": "/static/media/profile12.53ecd6cf55ba4532b8d4.jpeg",
     "static/media/profile2.jpeg": "/static/media/profile2.0bdb460ac3ed587b4885.jpeg",
     "static/media/profile9.jpeg": "/static/media/profile9.e92bbf1c8d8de1855e13.jpeg",
-    "static/media/visualizacao_3.jpg": "/static/media/visualizacao_3.7ec85700511afe398344.jpg",
+    "static/media/visualization-3.jpg": "/static/media/visualization-3.7ec85700511afe398344.jpg",
+    "static/media/footer-logo.png": "/static/media/footer-logo.55b3a1f92876d805b05f.png",
+    "static/media/logo.png": "/static/media/logo.55b3a1f92876d805b05f.png",
+    "static/media/img-9.png": "/static/media/img-9.47c1eb6c8137e9004752.png",
     "static/media/profile3.jpeg": "/static/media/profile3.8917e19e37946ace24ae.jpeg",
     "static/media/lattes.svg": "/static/media/lattes.6e86fe7ea37433b7fb688ba1e606471c.svg",
-    "static/media/whatsapp.svg": "/static/media/whatsapp.b35745c03b5478c135f8201a69380995.svg",
-    "static/media/location.svg": "/static/media/location.154bfb0dcd474bb833e6dd3279019077.svg",
-    "static/media/logoGoogle.svg": "/static/media/logoGoogle.87b05f8d46e097e2cf5c0625538a76ca.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.c91972a5cb4ff66b22c0ecb084c7cc74.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.dfb5c1d4fb3dbb442c54088985e0f221.svg",
-    "static/media/email.svg": "/static/media/email.ac9eb7933df32caecff3c513065acb31.svg",
-    "index.html": "/index.html",
-    "main.f2b18fe6.js.map": "/static/js/main.f2b18fe6.js.map"
+    "main.69c32726.css.map": "/static/css/main.69c32726.css.map",
+    "main.e9c00c63.js.map": "/static/js/main.e9c00c63.js.map"
   },
   "entrypoints": [
-    "static/js/main.f2b18fe6.js"
+    "static/css/main.69c32726.css",
+    "static/js/main.e9c00c63.js"
   ]
 }
