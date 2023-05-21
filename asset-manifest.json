@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.69c32726.css",
-    "main.js": "/static/js/main.e9c00c63.js",
+    "main.css": "/static/css/main.3a06052d.css",
+    "main.js": "/static/js/main.a3483cb0.js",
     "static/media/video-apresentation.mp4": "/static/media/video-apresentation.ac3574f41441006ef64c.mp4",
     "static/media/profile1.jpg": "/static/media/profile1.aaba1a2fa2007c5c5a10.jpg",
-    "static/media/visualization-1.jpg": "/static/media/visualization-1.c58f69b26982c789d97f.jpg",
     "static/media/aboutus.svg": "/static/media/aboutus.0643bec6617f537d582dbd4f9c0ec7e1.svg",
     "static/media/profile6.jpeg": "/static/media/profile6.6cf5b43b8fc8ab90555a.jpeg",
     "static/media/profile5.jpeg": "/static/media/profile5.fa56cbfe9ce3c9ff947a.jpeg",
-    "static/media/visualization-4.jpg": "/static/media/visualization-4.37a17156739b89310ffd.jpg",
+    "static/media/pag_inicial.png": "/static/media/pag_inicial.c9cf4f8dbaae0b4aaf83.png",
     "static/media/banner-bg.png": "/static/media/banner-bg.64dc2b5b415fe2cb6412.png",
     "static/media/profile4.jpeg": "/static/media/profile4.55308537f7ba416d1c17.jpeg",
-    "static/media/visualization-2.jpg": "/static/media/visualization-2.12dfbedd632566deaac4.jpg",
+    "static/media/acessos_por_estudantes.png": "/static/media/acessos_por_estudantes.7d3cb8de1f880de8840c.png",
     "static/media/profile12.jpeg": "/static/media/profile12.53ecd6cf55ba4532b8d4.jpeg",
     "static/media/profile2.jpeg": "/static/media/profile2.0bdb460ac3ed587b4885.jpeg",
     "static/media/profile9.jpeg": "/static/media/profile9.e92bbf1c8d8de1855e13.jpeg",
-    "static/media/visualization-3.jpg": "/static/media/visualization-3.7ec85700511afe398344.jpg",
+    "static/media/mapa_de_calor.png": "/static/media/mapa_de_calor.0c7ee1aec2fc9a96a182.png",
+    "static/media/lista_risco.png": "/static/media/lista_risco.84c76a33257f9ce4e359.png",
     "static/media/footer-logo.png": "/static/media/footer-logo.55b3a1f92876d805b05f.png",
     "static/media/logo.png": "/static/media/logo.55b3a1f92876d805b05f.png",
     "static/media/img-9.png": "/static/media/img-9.47c1eb6c8137e9004752.png",
@@ -27,11 +27,11 @@
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.c91972a5cb4ff66b22c0ecb084c7cc74.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.dfb5c1d4fb3dbb442c54088985e0f221.svg",
-    "main.69c32726.css.map": "/static/css/main.69c32726.css.map",
-    "main.e9c00c63.js.map": "/static/js/main.e9c00c63.js.map"
+    "main.3a06052d.css.map": "/static/css/main.3a06052d.css.map",
+    "main.a3483cb0.js.map": "/static/js/main.a3483cb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.69c32726.css",
-    "static/js/main.e9c00c63.js"
+    "static/css/main.3a06052d.css",
+    "static/js/main.a3483cb0.js"
   ]
 }
